@@ -1,2 +1,1 @@
-# CopyOverflow
 Laziness ^ 2
